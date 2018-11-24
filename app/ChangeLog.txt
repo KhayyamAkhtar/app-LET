@@ -1,0 +1,21 @@
+ChangeLog:
+
+-> v1.05:
+    1. Fixed UI Bugs for 5.5" screen.
+
+-> v1.04:
+    1. Added multiple accounts.
+    2. Changed UI placements.
+    3. Changed UI colors.
+    4. Added account deleting option.
+
+-> v1.03:
+    1. Changed amount entering to number.
+
+-> v1.02:
+    1. Added scrolling to records.
+    2. Changed records sorting.
+    3. added better comments in the code.
+
+-> v1.01:
+    1. Added multicolor UI.
